@@ -12,9 +12,9 @@ optional arguments:
   -h, --help   show this help message and exit
   ```
 
-For example, in the command-line:
+For example, assuming `count_lines.py` has path `C:\count_lines.py`:
 ```
-> python count_lines.py C:\MyDir .py .cpp .c .h .hpp
+C:\> python count_lines.py C:\MyDir .py .cpp .c .h .hpp
 ```
 Output:
 ```
