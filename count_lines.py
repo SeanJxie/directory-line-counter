@@ -1,6 +1,6 @@
 """
 
-A command line tool for counting lines of code
+A command line tool for counting lines of code.
 
 """
 
