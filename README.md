@@ -14,7 +14,7 @@ optional arguments:
 
 For example, in the command-line:
 ```
-C:\> python count_lines.py C:\MyDir .py .cpp .c .h .hpp
+> python count_lines.py C:\MyDir .py .cpp .c .h .hpp
 ```
 Output:
 ```
